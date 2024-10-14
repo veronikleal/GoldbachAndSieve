@@ -1,6 +1,4 @@
-# GoldbachAndSieve
-Goldbachs and Sieve conjecture
-
+# Goldbach's and Sieve Conjecture
 Implement the Sieve of Eratosthenes and use it to find all prime
 numbers less than or equal to an amount determined at runtime. Use
 the result to prove Goldbach's Conjecture for all even integers between
